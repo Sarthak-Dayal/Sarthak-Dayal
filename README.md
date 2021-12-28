@@ -1,5 +1,15 @@
-### Hi there 👋
+![Hello, my name is Sarthak  Nice to meet you](https://user-images.githubusercontent.com/63827830/147529613-2f966c5e-2c1d-4162-814b-0bb28dbff402.png)
 
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![](https://komarev.com/ghpvc/?username=Sarthak-Dayal)
+
+I am a High School Junior and developer with interests in Web Development, Quantum Computing, and Artificial Intelligence. I am currently working on building curriculum for underpriveleged students and learning more about AI in the process. Reach out to me if you would like to collaborate or have a chat about anything Software related!
+
+
+
+📫 dayalsarthak5@gmail.com
+
+💼 https://www.linkedin.com/in/sarthakdayal/
 <!--
 **Sarthak-Dayal/Sarthak-Dayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

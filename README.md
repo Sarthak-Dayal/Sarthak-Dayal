@@ -3,7 +3,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=Sarthak-Dayal)
 
-I am a High School Junior and developer with interests in Web Development, Quantum Computing, and Artificial Intelligence. I am currently working on building curriculum for underpriveleged students and learning more about AI in the process. Reach out to me if you would like to collaborate or have a chat about anything Software related!
+I am a High School Junior and developer with interests in Web Development, Quantum Computing, and Artificial Intelligence. I am currently working on building curriculum for underpriveleged students and learning more about AI in the process. Reach out to me if you would like to collaborate or wish to have a chat about anything Software related!
 
 
 

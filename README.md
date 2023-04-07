@@ -1,4 +1,4 @@
-![Hello, my name is Sarthak  Nice to meet you](https://user-images.githubusercontent.com/63827830/147529613-2f966c5e-2c1d-4162-814b-0bb28dbff402.png)
+![Hello, I'm Sarthak.  Nice to meet you.](https://user-images.githubusercontent.com/63827830/230687093-e363ae43-e194-4602-a94e-f548d7b720a0.png)
 
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=Sarthak-Dayal)

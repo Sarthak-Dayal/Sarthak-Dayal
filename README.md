@@ -5,7 +5,7 @@
 
 A high school senior and constant tinkerer hoping to sink his teeth into Artificial Intelligence, Quantum Computing, and Computational Neuroscience. Studying Computer Science next year @ The Univeristy of Texas at Austin (Class of 2027). Reach out to me below!
 
-📫 sarthak5@utexas.edu
+📫 sarthak@utexas.edu
 
 💼 https://www.linkedin.com/in/sarthakdayal/
 <!--

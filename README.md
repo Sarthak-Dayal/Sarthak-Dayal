@@ -3,11 +3,9 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=Sarthak-Dayal)
 
-A high school senior and constant tinkerer hoping to sink his teeth into Artificial Intelligence, Quantum Computing, and Computational Neuroscience. Studying Computer Science next year @ The Univeristy of Texas at Austin (Class of 2027). Check out my scrapbook or reach out to me below!
+A high school senior and constant tinkerer hoping to sink his teeth into Artificial Intelligence, Quantum Computing, and Computational Neuroscience. Studying Computer Science next year @ The Univeristy of Texas at Austin (Class of 2027). Reach out to me below!
 
-📔 [my scrapbook](https://scrapbook.hackclub.com/Sarthak)
-
-📫 dayalsarthak5@gmail.com
+📫 sarthak5@utexas.edu
 
 💼 https://www.linkedin.com/in/sarthakdayal/
 <!--

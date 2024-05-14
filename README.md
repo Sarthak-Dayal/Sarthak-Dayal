@@ -3,7 +3,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=Sarthak-Dayal)
 
-A high school senior and a constant tinkerer hoping to sink his teeth into Reinforcement Learning and Robotics. Currently pursuing a B.S. in Computer Science @ The University of Texas at Austin (Class of 2027). Reach out to me below!
+A student at UT sinking his teeth into Reinforcement Learning and Robotics. Currently pursuing a B.S. in Computer Science @ The University of Texas at Austin (Class of 2027). Reach out to me below!
 
 📫 sarthak@utexas.edu
 

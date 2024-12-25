@@ -5,7 +5,7 @@
 
 🌱 I’m currently working on a 3-stage pendulum robot
 
-📋 You can view my resume [here](https://github.com/Sarthak-Dayal/Sarthak-Dayal/blob/main/dayal_sarthak_resume_master.pdf) and my personal website at [https://sarthakdayal.com](https://sarthakdayal.com)
+📋 You can view my resume [here](https://sarthakdayal.com/resume/) and my personal website at [https://sarthakdayal.com](https://sarthakdayal.com)
 
 📕 Current read: [Modern Robotics by Kevin Lynch and Frank Park](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 

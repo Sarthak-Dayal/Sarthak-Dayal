@@ -7,7 +7,7 @@
 
 📋 You can view my resume [here](https://sarthakdayal.com/resume/) and my personal website at [https://sarthakdayal.com](https://sarthakdayal.com)
 
-📕 Current read: [Modern Robotics by Kevin Lynch and Frank Park](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+📕 Current read: revisiting [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/RLbook2020.pdf)
 
 ## Contact
 

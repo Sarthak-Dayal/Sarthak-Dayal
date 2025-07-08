@@ -3,7 +3,7 @@
 
 🤖 I'm a CS + robotics student at UT Austin and researcher at [Dr. Amy Zhang's lab](https://amyzhang.github.io/), working in Hierarchical Reinforcement Learning!
 
-🌱 I love learned agents, and am currently working on making one for C
+🌱 I love learned agents, and am currently working on making one for Catan!
 
 📋 You can view my resume [here](https://sarthakdayal.com/resume/) and my personal website at [https://sarthakdayal.com](https://sarthakdayal.com)
 
